@@ -60,7 +60,7 @@ The notebook includes charts, model evaluation metrics, and brief interpretation
 
 ## 👨‍💻 Author
 
-- PUSHPARAJ M
+- RAGHUL R
 
 ## 📝 License
 
